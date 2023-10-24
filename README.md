@@ -22,8 +22,9 @@ O código lê o nome e a quantidade de experiência (XP) de um herói. Com base 
 2. No código, substitua os valores de exemplo pelas informações do herói desejado:
 
 ```javascript
-let nomeHeroi = "Super Sonic";
-let xpHeroi = 5000;
+let nomeHeroi = "Nome so seu Herói";
+let xpHeroi = XP do seu Herói em NÚMEROS;
+```
 
 Execute o código JavaScript em um ambiente que suporte a linguagem, como um interpretador Node.js ou um navegador.
 
